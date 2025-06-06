@@ -39,6 +39,8 @@ Click this link to explore the trendora shopping excel report[Click here](https:
 ## Conclusion
 The analysis of Trendora's shopping data reveals critical insights into customer behaviours, products performance, regional performance, and seasonal trends. These insights empower Trendora to make data-driven decisions, optimize marketing efforts, and enhance customer satisfaction and loyalty.
 
+## Tools Used
+Microsoft Excel (Data Cleaned & Analysed)
 
 
 
