@@ -30,6 +30,17 @@ The dataset includes information on items purchased, purchased amount, payment m
 ## Link To Trendora Shopping Report
 Click this link to explore the trendora shopping excel report[Click here](https://1drv.ms/x/c/9041d4409b5e9228/EWNgNrtRycdNs9Zwul8coDsBBUbX01eWafBqTZVYoVStfw?e=EGVNop)
 
+## Recommendations
+- Bestsellers like blouses and Jewelleries should always be in stock.
+- Target top performing states with local promotions.
+- Plan major campaigns around Fall / Spring.
+- Increase adverts and promo offers in all stores.
+
+## Conclusion
+The analysis of Trendora's shopping data reveals critical insights into customer behaviours, products performance, regional performance, and seasonal trends. These insights empower Trendora to make data-driven decisions, optimize marketing efforts, and enhance customer satisfaction and loyalty.
+
+
+
 
 
 
